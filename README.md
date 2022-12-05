@@ -14,13 +14,13 @@ Some notes of this repo are written in Portuguese.
 - Angular
 - React
 - NextJS
-- Fundamentos Cloud
+- Cloud Fundamentals
 - AWS (Deploy)
 - Cache
 - Redis
-- Microsserviços
+- Microservices
 - DDD
-- Performance no .NET
+- .NET Performance
 - Kafka
 - RabbitMQ
 - F# (?)
