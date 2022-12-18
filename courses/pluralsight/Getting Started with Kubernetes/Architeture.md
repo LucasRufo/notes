@@ -20,7 +20,7 @@ It's a component that has o lot of controllers inside and it's responsible for u
 ### Scheduler
 It's responsible for assigning work to cluster nodes. It's a very complex component.
 
-![[BigPicture.png]]
+![BigPicture](./Images/BigPicture.png)
 
 ## Worker Nodes
 ## Components
@@ -43,7 +43,7 @@ It's the atomic component of Kubernetes. You can run multiple containers inside 
 
 It's a component that has a stable name and IP, different from Pods, that every new Pod has a new IP. So we can use a Service to deal with network calls and basic load-balancing. Services can identify the Pods that it needs to manage using Labels. Services only sends traffic for healthy Pods.
 
-![[Services.png]]
+![Services](./Images/Services.png)
 
 ## Deployments
 
