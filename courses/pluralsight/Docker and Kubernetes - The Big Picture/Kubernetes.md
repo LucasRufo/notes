@@ -1,6 +1,6 @@
 ## History
 
-Google was running tons of apps inside [[Intro#What is a Container?|containers]] and to handle a big amount of containers, they had to create internal tools. Then Google created Kubernetes, a open-source tool featured in CNCF (Cloud Native Computing Foundation).
+Google was running tons of apps inside [[courses/pluralsight/Docker and Kubernetes - The Big Picture/Intro#What is a Container?|containers]] and to handle a big amount of containers, they had to create internal tools. Then Google created Kubernetes, a open-source tool featured in CNCF (Cloud Native Computing Foundation).
 
 ## What k8s can do?
 

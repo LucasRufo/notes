@@ -1,6 +1,6 @@
 ## The company
 
-A company called DotCloud created [[Intro#What is a Container?|containers]] internally in their business and then  released to the world using the name Docker. From this point, the company changed their name to Docker .Inc and started building its business around the Docker Containers.
+A company called DotCloud created [[courses/pluralsight/Docker and Kubernetes - The Big Picture/Intro#What is a Container?|containers]] internally in their business and then  released to the world using the name Docker. From this point, the company changed their name to Docker .Inc and started building its business around the Docker Containers.
 
 ## The tech
 
